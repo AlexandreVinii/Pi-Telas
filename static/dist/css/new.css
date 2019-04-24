@@ -2,10 +2,7 @@ html,body{
 
     height: 100% !important;
 }
-#content{
-    max-width: 70% !important;
-    margin: 0 220px;
-}
+
 .test{
     padding-top: 0px !important;
 }
